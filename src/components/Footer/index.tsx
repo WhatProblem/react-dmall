@@ -4,7 +4,7 @@ import { DefaultFooter } from '@ant-design/pro-layout';
 
 export default () => (
   <DefaultFooter
-    copyright="2020 蚂蚁集团体验技术部出品"
+    copyright="模仿多点商城进销存admin后台管理"
     links={[
       {
         key: 'Ant Design Pro',
